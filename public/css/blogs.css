@@ -1,0 +1,11 @@
+body{
+    background-color: #FDF8F4;
+}
+.blogs-img img{
+    height: 15rem;
+    width: 15rem;
+}
+.blog-1{
+    /* background-color: #E1EBF8; */
+    background-color: #FFE6E2;;
+}
